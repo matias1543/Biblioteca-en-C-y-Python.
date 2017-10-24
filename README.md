@@ -1,4 +1,4 @@
-# Biblioteca.c
+# Biblioteca en C y Python
 Sistema de Administración de Libros
 
 Especificación:
